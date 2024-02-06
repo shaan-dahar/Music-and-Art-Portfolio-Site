@@ -1,4 +1,4 @@
-2/5/2024 5:38PM - 
+2/5/2024 5:38PM - 7:38pm
 Breaking down elements of project
 Site background can be same as the bandcamp page
 can use embeds from bandcamp and soundcloud for music or build a clone of each element using them as templates
@@ -13,3 +13,7 @@ Top banner elements
 
 How should each element be displayed?
 Build visual pieces section first, then pull album covers from that page
+2/6/2024 5:16pm - ...
+Let's start building basic site
+first need to set up react and vite
+figure out how to do that.
